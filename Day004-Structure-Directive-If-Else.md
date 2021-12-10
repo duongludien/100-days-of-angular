@@ -1,6 +1,6 @@
 # Day 4: ANGULAR STRUCTURE DIRECTIVE - NGIF
 
-Theo như một lẽ tự nhiên trong lập trình, có những lúc chúng ta cần phụ thuộc vào điều kiện gì đó để đưa ra quyết định tương ứng. Giả sử chúng ta đang xây dựng ứng dụng xem video trực tuyển, lúc này có những bộ phim PG-13 yêu cầu người xem phải từ 13 tuổi trở lên mới xem được. Làm thế nào để hiển thị cho người dùng biết được họ có đủ điều kiện để xem video đó hay không? Lúc này chúng ta có thể dùng cấu trúc IF-ELSE mà Angular cung cấp để đáp ứng yêu cầu đó.
+Theo như một lẽ tự nhiên trong lập trình, có những lúc chúng ta cần phụ thuộc vào điều kiện gì đó để đưa ra quyết định tương ứng. Giả sử chúng ta đang xây dựng ứng dụng xem video trực tuyến, lúc này có những bộ phim PG-13 yêu cầu người xem phải từ 13 tuổi trở lên mới xem được. Làm thế nào để hiển thị cho người dùng biết được họ có đủ điều kiện để xem video đó hay không? Lúc này chúng ta có thể dùng cấu trúc IF-ELSE mà Angular cung cấp để đáp ứng yêu cầu đó.
 Trong Angular để thêm, xóa, thay đổi structure (structure HTML chẳng hạn) ở trên view của component chúng ta sẽ dùng Structure Directive.
 
 ## CẤU TRÚC IF-ELSE
